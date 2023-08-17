@@ -1995,6 +1995,9 @@ agent = random.choice(
 			"Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
 			"Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
 			"Mozilla/5.0 (Linux; Android 10; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; Android 12; 10;  CPH2273)T403A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5195.13679.0.4229.96 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; Android 12; 12;  CPH2273)J776E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5195.13697.0.4313.54 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; Android 12; 6; 8; ('Mozilla/5.0 (Linux; Android 12; 6;  CPH2273)M326D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5195.13690.0.4695.122 Mobile Safari/537.36',)B635D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4406.73 Mobile Safari/537.36 hola_android"
 	]
 )
 
