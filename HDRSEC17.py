@@ -872,21 +872,21 @@ def setting():
 		pwpluss.append('no')
 	
 	cetak(panel(f'      [bold white]Apakah Anda Ingin Menampilkan Aplikasi Yang Terkait Di Dalam Akun ? Y/T',width=90,title=f"[bold green]Setting Cek Apk",style=f"bold white"))
-	_brayen_ = input(' [+] Pilih : ')
-	if _brayen_ in ['']:
+	_hdrsec17_ = input(' [+] Pilih : ')
+	if _hdrsec17_ in ['']:
 		print(' [+] Pilih Yang Bener Kontol ')
 		exit()
-	elif _brayen_ in ['y','Y']:
+	elif _hdrsec17_ in ['y','Y']:
 		taplikasi.append('ya')
 	else:
 		taplikasi.append('no')
 		
 	cetak(panel(f'      [bold white]Apakah Anda Ingin Menampilkan Opsi Checkpoint Di Dalam Akun ? Y/T',width=90,title=f"[bold green]Cek Opsi",style=f"bold white"))
 	_brayen_ = input(' [+] Pilih : ')
-	if _brayen_ in ['']:
+	if _hdrsec17_ in ['']:
 		print(' [+] Pilih Yang Bener Kontol ')
 		exit()
-	elif _brayen_ in ['y','Y']:
+	elif _hdrsec17_ in ['y','Y']:
 		gabriel.append('ya')
 	else:
 		gabriel.append('no')
