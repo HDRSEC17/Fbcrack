@@ -12,4 +12,4 @@
 - $ cd Fbcrack
 - $ git pull
 - $ ls
-- $ python Run.py
+- $ python HDRSEC17.py
